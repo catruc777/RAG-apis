@@ -63,3 +63,5 @@ Authorization: Bearer {{apiKey}}
     "filter_top_k": 6
 }
 ```
+
+![image](/public/images/RAG-apis.jpg)
